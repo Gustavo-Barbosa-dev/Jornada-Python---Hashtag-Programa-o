@@ -1,4 +1,5 @@
-Repository of training courses provided by Hashtag Programação during the Python Journey, divided into 4 classes.
+# Python Journey 🐍
+Repository of training courses provided by **Hashtag Programação** during the **Python Journey**, divided into 4 classes.
 
 In class 1, an automation project was developed for product registration using Python to be executed.
 
